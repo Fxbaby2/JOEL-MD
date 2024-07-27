@@ -1,5 +1,5 @@
 {
-  "name":"𝕁𝕆𝔼𝕃 𝕄𝔻 𝕃𝔸𝕋𝔼𝕊𝕋 𝕍𝕀𝕊𝕀𝕆ℕ",
+  "name":"montana",
   "description":"bot whatsapp développéd by joel tech",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/c0b64b8b1b74475ef90a5.jpg",
@@ -28,14 +28,14 @@
      "PM_PERMIT" :
      {
       "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"no",
+      "value":"true",
       "required":true
     }
     ,
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝕁𝕆𝔼𝕃 𝕄𝔻 𝕃𝔸𝕋𝔼𝕊𝕋 𝕍𝕀𝕊𝕀𝕆ℕ",
+      "value":"montana",
       "required":false
 
     } ,
@@ -49,7 +49,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"no",
+      "value":"yes",
       "required": true 
     }
 	,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "joel tech"
+    "value": "montana"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255714595078"
+    "value": "263713347378"
   },
     "WARN_COUNT":
   {
